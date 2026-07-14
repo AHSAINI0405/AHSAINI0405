@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer | MERN • Next.js • TypeScript</h3>
 
 <p align="center">
-  
+  <a href="https://ahsaini0405.github.io/My-Portfolio/"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
   <a href="https://linkedin.com/in/amit-saini-805a4b223"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:sainikataria2002@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/AHSAINI0405"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
@@ -100,12 +100,12 @@ Real-time civic complaint management platform for simulated municipal department
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AHSAINI0405&show_icons=true&theme=tokyonight&count_private=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AHSAINI0405&layout=compact&theme=tokyonight"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AHSAINI0405&show_icons=true&theme=tokyonight" alt="Amit's GitHub stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AHSAINI0405&layout=compact&theme=tokyonight" alt="Top languages"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AHSAINI0405&theme=tokyonight"/>
+  <img src="https://streak-stats.demolab.com/?user=AHSAINI0405&theme=tokyonight" alt="GitHub streak"/>
 </p>
 
 ---
@@ -115,5 +115,5 @@ Real-time civic complaint management platform for simulated municipal department
 </p>
 
 <p align="center">
-  📫 <b>sainikataria2002@gmail.com</b> &nbsp;|&nbsp; 🔗 <a href="https://linkedin.com/in/amit-saini-805a4b223">LinkedIn</a> &nbsp;|&nbsp; 💻 <a href="https://github.com/AHSAINI0405">GitHub</a>
+  📫 <b>sainikataria2002@gmail.com</b> &nbsp;|&nbsp; 🌐 <a href="https://ahsaini0405.github.io/My-Portfolio/">Portfolio</a> &nbsp;|&nbsp; 🔗 <a href="https://linkedin.com/in/amit-saini-805a4b223">LinkedIn</a> &nbsp;|&nbsp; 💻 <a href="https://github.com/AHSAINI0405">GitHub</a>
 </p>
